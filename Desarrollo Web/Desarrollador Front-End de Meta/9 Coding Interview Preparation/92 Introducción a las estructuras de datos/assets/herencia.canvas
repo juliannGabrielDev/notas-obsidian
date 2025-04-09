@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a11724c23018afe0","x":-280,"y":60,"width":250,"height":60,"color":"2","type":"text","text":"**Player**"},
+		{"id":"ad13b1e60ed700cf","x":5,"y":60,"width":250,"height":60,"color":"2","type":"text","text":"**Referee**"},
+		{"id":"70f3adf2004392d4","x":-140,"y":-60,"width":250,"height":60,"color":"6","type":"text","text":"**Human**"}
+	],
+	"edges":[
+		{"id":"2bbea46fa65a67d7","fromNode":"70f3adf2004392d4","fromSide":"bottom","toNode":"ad13b1e60ed700cf","toSide":"top"},
+		{"id":"8f0ac5f68c31a427","fromNode":"70f3adf2004392d4","fromSide":"bottom","toNode":"a11724c23018afe0","toSide":"top"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e08f54684fdb46a7","x":-140,"y":-320,"width":250,"height":60,"color":"6","type":"text","text":"**Estructuras de Datos en Python**"},
+		{"id":"95d1ea850f83840d","x":-460,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"Estructuras de Datos Incorporadas"},
+		{"id":"aabf3644a1fd924f","x":-460,"y":-20,"width":250,"height":140,"color":"4","type":"text","text":"- Listas\n- Tuplas\n- Diccionarios\n- Sets"},
+		{"id":"ecfde5e76a0b373e","x":180,"y":-140,"width":250,"height":60,"color":"2","type":"text","text":"Estructuras de Datos Definidas por el Usuario"},
+		{"id":"568fe807799ac357","x":180,"y":-20,"width":250,"height":240,"color":"2","type":"text","text":"- Pila (Stack)\n- Árbol (Tree)\n- Gráfico (Graph)\n- Cola (Queue)\n- Listas Enlazadas (Linked List)\n- Table Hash (HashMap)"}
+	],
+	"edges":[
+		{"id":"88157678d6e5d0e6","fromNode":"95d1ea850f83840d","fromSide":"bottom","toNode":"aabf3644a1fd924f","toSide":"top","color":"4"},
+		{"id":"ea9c0517283aaf2a","fromNode":"e08f54684fdb46a7","fromSide":"bottom","toNode":"95d1ea850f83840d","toSide":"top","color":"4"},
+		{"id":"5af5811fdec2d390","fromNode":"e08f54684fdb46a7","fromSide":"bottom","toNode":"ecfde5e76a0b373e","toSide":"top","color":"2"},
+		{"id":"984ad27deb34b0da","fromNode":"ecfde5e76a0b373e","fromSide":"bottom","toNode":"568fe807799ac357","toSide":"top","color":"2"}
+	]
+}
