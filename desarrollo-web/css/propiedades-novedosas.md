@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - tips-and-tricks
----
+# Propiedades novedosas
+
 ## margin-inline, margin-block
 
 ```css
