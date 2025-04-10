@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - funciones
----
+# min()
+
 La función `min()` en CSS se utiliza para tomar el valor mínimo de una lista de valores dados. Puede ser útil cuando se desea establecer un tamaño que no supere un límite específico.
 
 **Por ejemplo**:

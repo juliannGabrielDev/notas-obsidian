@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - avanzado
----
+# @layer
+
 En CSS, la regla `@layer` se utiliza para definir **capas de especificidad** (layers), que permiten organizar y controlar el orden en que se aplican los estilos. Las capas se pueden usar para gestionar la prioridad de los estilos sin depender únicamente de la especificidad o el orden en el archivo CSS.
 
 En tu ejemplo:

@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - basico
----
+# Unidades de medida
+
 Examinemos las unidades de medida más utilizadas. A grandes rasgos, pueden clasificarse en unidades **absolutas** y **relativas**.
 ## Unidades absolutas
 

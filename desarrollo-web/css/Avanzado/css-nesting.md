@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - avanzado
----
+# CSS Nesting
+
 El **CSS Nesting** es una característica que permite anidar selectores dentro de otros, facilitando la organización del código y reduciendo la repetición. Es similar a cómo funcionan los preprocesadores como SASS, pero ahora es parte nativa de CSS moderno (gracias al [CSS Nesting Module](https://www.w3.org/TR/css-nesting-1/)).
 
 ---

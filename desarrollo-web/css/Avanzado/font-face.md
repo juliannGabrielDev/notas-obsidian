@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - avanzado
----
+# @font-face
+
 ```css
 @font-face {
 	font-family: "Poppins";

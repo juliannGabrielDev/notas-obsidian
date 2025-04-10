@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - basico
----
+# Propiedades de texto
+
 La representación visual del contenido de texto puede modificarse mediante cuatro propiedades principales: `text-transform`, `font-style`, `font-weight` y `text-decoration`.
 
 | Propiedad         | Valores                                                      | Descripción                                                                                                  |

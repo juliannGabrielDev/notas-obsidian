@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - responsive-design
----
+# container queries
+
 Las Container Queries son una característica relativamente nueva en CSS que permite aplicar estilos a un elemento en función del tamaño de su contenedor padre, en lugar de basarse únicamente en el tamaño de la ventana del navegador como lo hacen las tradicionales Media Queries.
 
 ## ¿Cómo funcionan?

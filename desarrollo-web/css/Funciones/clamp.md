@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - responsive-design
----
+# clamp()
+
 La función `clamp()` te permite establecer un tamaño de fuente mínimo, un tamaño de fuente preferido y un tamaño de fuente máximo. Esto significa que la fuente se ajustará dentro de estos límites, asegurando que siempre sea legible pero también que se adapte al espacio disponible.
 Sintaxis básica:
 

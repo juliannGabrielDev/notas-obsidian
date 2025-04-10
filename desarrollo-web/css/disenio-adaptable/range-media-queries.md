@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - responsive-design
----
+# Range media queries
+
 ```css
 @media (width >= 40rem) { ... } /* 640px */
 @media (width >= 48rem) { ... } /* 768px */

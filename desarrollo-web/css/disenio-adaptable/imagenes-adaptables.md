@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - responsive-design
----
+# Imágenes adaptables
+
 ```css
 img {
 	/*width: 100%;

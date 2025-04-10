@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - basico
----
+# Selectores CSS Pseudo
+
 - [[#Selectores de atributos|Selectores de atributos]]
 - [[#Selectores de pseudoclases|Selectores de pseudoclases]]
 - [[#Selectores de pseudoelementos|Selectores de pseudoelementos]]

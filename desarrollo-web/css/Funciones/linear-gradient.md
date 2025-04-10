@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - funciones
----
+# linear-gradient()
+
 La función `linear-gradient()` en CSS se utiliza para crear un gradiente lineal, que es una transición suave entre dos o más colores a lo largo de una línea recta. Puedes especificar la dirección del gradiente (por ejemplo, hacia la derecha, hacia abajo, en diagonal, etc.) y los colores que quieres que se mezclen. Aquí tienes un ejemplo básico:
 
 ```css

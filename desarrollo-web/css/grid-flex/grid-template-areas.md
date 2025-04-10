@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - grid-flex
----
+# grid-template-areas
+
 La propiedad `grid-template-areas` suele colocarse dentro de la etiqueta body o de cualquier contenedor donde deba colocarse la rejilla, del mismo modo que definiría las reglas para la rejilla. La principal diferencia es que, en el caso de `grid-template-areas` los valores presentes serán los distintos nombres.
 
 ## Proceso

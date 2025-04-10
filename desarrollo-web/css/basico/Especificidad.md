@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - basico
----
+# Especificidad
+
 La especificidad es la **clasificación** o **puntuación** que ayuda a CSS a determinar la regla final que se aplicará a un elemento determinado.
 
 Esta lectura le ayudará a comprender cómo el elemento con la especificidad "más alta" es seleccionado por CSS. Pero antes de seguir leyendo, es importante tener en cuenta que estas reglas sólo se aplican en los casos en que surgen conflictos para las propiedades.

@@ -1,8 +1,5 @@
----
-tags:
-  - css
-  - grid-flex
----
+# Grid y flexbox
+
 La sintaxis para crear una cuadrícula:
 
 ```css
